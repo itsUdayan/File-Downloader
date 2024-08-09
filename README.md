@@ -53,3 +53,8 @@ Feel free to fork this repository and contribute by submitting a pull request. W
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Enjoy downloading your files with style! 🎉
+
+![Screenshot 2024-08-10 010226](https://github.com/user-attachments/assets/e3c3b3ae-ddee-4078-9756-ef6ddcbe4ef7)
+![Screenshot 2024-08-10 010209](https://github.com/user-attachments/assets/04c0b314-1010-44f2-84c8-d5c610f5d0b5)
+
+
